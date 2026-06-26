@@ -24,7 +24,7 @@ By the end of L08 you will be able to:
 
 ## Phase 1 — Pre-class (≈ 30 min)
 
-- Watch the [lesson intro video](https://youtu.be/WasU-87LgfA) (~5 min)
+- Watch the [How AI Learn to see](https://youtu.be/jBGYGwABXeQ) (~5 min)
 - Read [pre-class.md](pre-class.md)
 - Watch the linked 3Blue1Brown convolution video
 - Run [notebooks/01_monday_morning.ipynb](notebooks/01_monday_morning.ipynb) — flatten Fashion-MNIST, train an MLP, and feel the parameter explosion
